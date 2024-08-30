@@ -18,7 +18,8 @@ This tool allows users to integrate new basemap services seamlessly and includes
 Developed by: A-Talebifard
 (https://github.com/A-talebifard)
 This tool offers a streamlined approach to expanding your basemap options, providing greater customization and control over your geographic data visualization.
-[![مشاهده ویدیو](https://img.youtube.com/vi/bdk2sAAguE8/hqdefault.jpg)](https://youtu.be/bdk2sAAguE8)
+
+<iframe width="1080" height="720" src="https://www.youtube.com/embed/bdk2sAAguE8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  -----
  سلام! با ابزار جدیدی که برای ArcGIS Pro ساخته‌ام، می‌تونید به راحتی سرویس‌های جدید نقشه‌پایه رو اضافه کنید و فراتر از گزینه‌های پیش‌فرض نرم‌افزار برید. این ابزار به شما اجازه می‌ده Basemap های سرویس های مختلف رو بدون محدودیت وارد کنید و همچنین یک گزینه برای فعال‌سازی DNS داره که با توجه به شرایط اینترنت به ادغام بهتر و راحت‌تر نقشه‌پایه‌های سفارشی کمک می‌کنه.
