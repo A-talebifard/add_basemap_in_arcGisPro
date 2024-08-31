@@ -19,7 +19,7 @@ Developed by: A-Talebifard
 (https://github.com/A-talebifard)
 This tool offers a streamlined approach to expanding your basemap options, providing greater customization and control over your geographic data visualization.
 
-[![مشاهده ویدیو](https://img.youtube.com/vi/bdk2sAAguE8/hqdefault.jpg)]([https://www.youtube.com/watch?v=bdk2sAAguE8](https://www.youtube.com/watch?v=bdk2sAAguE8))
+[YouTube](https://www.youtube.com/watch?v=bdk2sAAguE8)
 
 
 
