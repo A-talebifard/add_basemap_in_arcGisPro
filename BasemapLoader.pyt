@@ -22,6 +22,8 @@ class BasemapAndDNSTool(object):
         self.map_sources = {
             # --- FEATURED ---
             'Snap Map (Iran)': 'https://raster.snappmaps.ir/styles/snapp-style/{z}/{x}/{y}.png',
+            'Balad tehran satellite (Iran)':'https://tiles.raah.ir/tiles/satellite_tehran_v4_super_resolution/{z}/{x}/{y}.png',
+            'Balad (Iran)':'https://tiles.raah.ir/tiles/satellite_iran_v2_super_resolution/{z}/{x}/{y}.png',
             'Google Maps (Road)': 'https://mt1.google.com/vt/lyrs=m&x={x}&y={y}&z={z}',
             'Google Satellite': 'https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}',
             'Google Satellite (Bypass)': 'http://www.google.cn/maps/vt?lyrs=s@189&gl=cn&x={x}&y={y}&z={z}',
